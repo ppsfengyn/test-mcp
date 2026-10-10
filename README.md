@@ -1,1 +1,1 @@
-# test-mcp
+Bionic MCP 测试成功！
